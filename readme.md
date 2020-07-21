@@ -1,0 +1,1 @@
+This is a brief resume outlining where to find me, my projects, and all the information you need to know about me. 

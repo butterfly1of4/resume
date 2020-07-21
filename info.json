@@ -1,0 +1,24 @@
+{
+    "name": "Jennifer Houck",
+    "website": "https://butterfly1of4.github.io/",
+    "linkedin": "https://www.linkedin.com/in/jennifer-houck/",
+    "github": "https://github.com/butterfly1of4",
+    "email": "jhouck29@gmail.com",
+    "resume": "https://butterfly1of4.github.io/my-resume/",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "CSS",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "HTML",
+        "Node"
+    ],
+    "otherSkills": [
+        "Violin",
+        "Cooking",
+        "Yoga"
+    ]
+}
